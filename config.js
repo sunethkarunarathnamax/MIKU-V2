@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919536476115']
-global.OwnerNumber = ['919536476115']
-global.ownertag = ['919536476115']
-global.BotName = "𝑴𝑰𝑲𝑼-𝑽2"
-global.packname = "𝑴𝑰𝑲𝑼-𝑽2"
-global.author = "𝑩𝒀 - 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
-global.OwnerName = "CHIRAG YOUTUBER"
+global.Owner = ['94770378874']
+global.OwnerNumber = ['94768440031']
+global.ownertag = ['94770378874']
+global.BotName = "🍁ѕυкι-м∂🍁"
+global.packname = "🍁ѕυкι-м∂🍁"
+global.author = "𝑩𝒀 - ѕυηєтн"
+global.OwnerName = "SUNETH "
 global.BotSourceCode = "https://github.com/LOSTHACKEROFC/MIKU-V2"
 global.SupportGroupLink = "https://chat.whatsapp.com/JvIdTV61RUs4NTmYrtV6qz"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['#'] 
 
 
-global.location = "UTTRAKHAND, India"
+global.location = "ANURADHAPURA, SRI-LANKA"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
